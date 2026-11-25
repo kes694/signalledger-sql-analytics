@@ -1,0 +1,4 @@
+plan_id,plan_name,target_bps,monthly_fee_paise
+1,Standard,9900,180000
+2,Business,9950,420000
+3,Mission Critical,9990,850000

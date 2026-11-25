@@ -1,0 +1,1 @@
+(3, 0, 61, 'SEARCH credits USING INDEX idx_credit_invoice_status (invoice_id=? AND status=?)')

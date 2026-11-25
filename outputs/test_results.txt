@@ -1,0 +1,11 @@
+test_independent_minute_oracle_and_cause_allocation (test_pipeline.PipelineTests.test_independent_minute_oracle_and_cause_allocation) ... ok
+test_index_used (test_pipeline.PipelineTests.test_index_used) ... ok
+test_integrity (test_pipeline.PipelineTests.test_integrity) ... ok
+test_isolated_overlap_and_boundary_case (test_pipeline.PipelineTests.test_isolated_overlap_and_boundary_case) ... ok
+test_money_identity_and_entitlement (test_pipeline.PipelineTests.test_money_identity_and_entitlement) ... ok
+test_no_invoice_fanout (test_pipeline.PipelineTests.test_no_invoice_fanout) ... ok
+
+----------------------------------------------------------------------
+Ran 6 tests in 0.269s
+
+OK

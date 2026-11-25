@@ -1,0 +1,7 @@
+cause,minutes,share_pct,cumulative_pct
+Cooling failure,33768,18.14,18.14
+Configuration error,32307,17.36,35.5
+Router failure,32272,17.34,52.84
+Fiber cut,31377,16.86,69.7
+Backhaul congestion,29405,15.8,85.49
+Power failure,27000,14.51,100.0

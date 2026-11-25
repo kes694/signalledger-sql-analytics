@@ -1,0 +1,10 @@
+plan_name,segment,invoices,breached,breach_pct,entitled_inr,outstanding_inr
+Mission Critical,Enterprise,930,787,84.62,661050.0,132250.0
+Mission Critical,SME,948,769,81.12,684937.5,129100.0
+Mission Critical,Public Sector,840,724,86.19,619075.0,122506.25
+Business,SME,1716,922,53.73,444927.5,88400.0
+Business,Public Sector,1524,782,51.31,382087.5,67595.0
+Business,Enterprise,1584,780,49.24,379075.0,65930.0
+Standard,Enterprise,1116,316,28.32,71615.0,15970.0
+Standard,Public Sector,1092,307,28.11,67747.5,14413.75
+Standard,SME,1050,303,28.86,68910.0,11463.75

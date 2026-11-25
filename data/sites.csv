@@ -1,0 +1,73 @@
+site_id,site_name,region,site_type
+1,POP-001,Delhi NCR,Enterprise
+2,POP-002,Mumbai,Enterprise
+3,POP-003,Bengaluru,Edge
+4,POP-004,Hyderabad,Enterprise
+5,POP-005,Pune,Enterprise
+6,POP-006,Chennai,Metro
+7,POP-007,Delhi NCR,Edge
+8,POP-008,Mumbai,Metro
+9,POP-009,Bengaluru,Metro
+10,POP-010,Hyderabad,Metro
+11,POP-011,Pune,Metro
+12,POP-012,Chennai,Edge
+13,POP-013,Delhi NCR,Enterprise
+14,POP-014,Mumbai,Enterprise
+15,POP-015,Bengaluru,Edge
+16,POP-016,Hyderabad,Enterprise
+17,POP-017,Pune,Enterprise
+18,POP-018,Chennai,Edge
+19,POP-019,Delhi NCR,Edge
+20,POP-020,Mumbai,Enterprise
+21,POP-021,Bengaluru,Metro
+22,POP-022,Hyderabad,Edge
+23,POP-023,Pune,Metro
+24,POP-024,Chennai,Edge
+25,POP-025,Delhi NCR,Edge
+26,POP-026,Mumbai,Enterprise
+27,POP-027,Bengaluru,Metro
+28,POP-028,Hyderabad,Metro
+29,POP-029,Pune,Enterprise
+30,POP-030,Chennai,Edge
+31,POP-031,Delhi NCR,Enterprise
+32,POP-032,Mumbai,Edge
+33,POP-033,Bengaluru,Metro
+34,POP-034,Hyderabad,Edge
+35,POP-035,Pune,Metro
+36,POP-036,Chennai,Edge
+37,POP-037,Delhi NCR,Metro
+38,POP-038,Mumbai,Edge
+39,POP-039,Bengaluru,Enterprise
+40,POP-040,Hyderabad,Metro
+41,POP-041,Pune,Edge
+42,POP-042,Chennai,Edge
+43,POP-043,Delhi NCR,Metro
+44,POP-044,Mumbai,Enterprise
+45,POP-045,Bengaluru,Enterprise
+46,POP-046,Hyderabad,Enterprise
+47,POP-047,Pune,Enterprise
+48,POP-048,Chennai,Edge
+49,POP-049,Delhi NCR,Metro
+50,POP-050,Mumbai,Edge
+51,POP-051,Bengaluru,Metro
+52,POP-052,Hyderabad,Edge
+53,POP-053,Pune,Edge
+54,POP-054,Chennai,Enterprise
+55,POP-055,Delhi NCR,Edge
+56,POP-056,Mumbai,Edge
+57,POP-057,Bengaluru,Edge
+58,POP-058,Hyderabad,Enterprise
+59,POP-059,Pune,Metro
+60,POP-060,Chennai,Metro
+61,POP-061,Delhi NCR,Metro
+62,POP-062,Mumbai,Edge
+63,POP-063,Bengaluru,Enterprise
+64,POP-064,Hyderabad,Edge
+65,POP-065,Pune,Metro
+66,POP-066,Chennai,Metro
+67,POP-067,Delhi NCR,Edge
+68,POP-068,Mumbai,Enterprise
+69,POP-069,Bengaluru,Edge
+70,POP-070,Hyderabad,Edge
+71,POP-071,Pune,Enterprise
+72,POP-072,Chennai,Edge
